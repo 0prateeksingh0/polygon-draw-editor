@@ -3,7 +3,7 @@
 A React + Vite-based frontend application built as part of a technical task for Ottermap. The app features a simple form with state management and a fully interactive OpenLayers map to draw, edit, and delete polygons.
 
 ## 🚀 Live Demo
-👉 [View Deployed Project on Vercel](https://polygon-draw-editor-k2kop08kn-0prateeksingh0s-projects.vercel.app/)
+👉 [View Deployed Project on Vercel](https://polygon-draw-editor.vercel.app/)
 
 ## ✨ Features
 
